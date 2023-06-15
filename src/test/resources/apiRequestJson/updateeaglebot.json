@@ -1,0 +1,18 @@
+{
+  "id": "397",
+  "traffic_volume_current_location_address": "6559 South",
+  "street": "Damen Avenue",
+  "date_of_count": "2006-10-11T07:00:00.000Z",
+  "total_passing_vehicle_volume": "21500",
+  "vehicle_volume_by_each_direction_of_traffic": "North Bound: 11600 / South Bound: 9900",
+  "message": "Successfully! Record has been Updated.",
+  "latitude": "41.773922",
+  "longitude": "-87.673756",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -87.673756,
+      41.773922
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "eaglebots": [
+    {
+      "id": "414",
+      "traffic_volume_current_location_address": "5838 West",
+      "road_name_under_investigation": "Lake St",
+      "date_exchange_time_stamp": "2006-11-14T08:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "7100",
+      "vehicle_volume_by_each_direction_of_traffic": "East Bound: 3600 / West Bound: 3500",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.887904",
+      "longitude": "-87.771064",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.771064,
+          41.887904
+        ]
+      }
+    },
+    {
+      "id": "176",
+      "traffic_volume_current_location_address": "6559 South",
+      "road_name_under_investigation": "76th St",
+      "date_exchange_time_stamp": "2006-03-28T08:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "8600",
+      "vehicle_volume_by_each_direction_of_traffic": "North Bound: 11600 / South Bound: 9900",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.773922",
+      "longitude": "-87.673756",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.673756,
+          41.773922
+        ]
+      },
+      "street": "Damen Avenue",
+      "date_of_count": "2006-10-11T07:00:00.000Z",
+      "total_passing_vehicle_volume": "21500"
+    },
+    {
+      "id": "1367",
+      "traffic_volume_current_location_address": "1730 East",
+      "road_name_under_investigation": "57th Dr",
+      "date_exchange_time_stamp": "2006-08-24T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "53500",
+      "vehicle_volume_by_each_direction_of_traffic": "East Bound: 27800 / West Bound: 25700",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.792663",
+      "longitude": "-87.582231",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.582231,
+          41.792663
+        ]
+      }
+    },
+    {
+      "id": "316",
+      "traffic_volume_current_location_address": "125 East",
+      "road_name_under_investigation": "24th St",
+      "date_exchange_time_stamp": "2006-03-30T08:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "700",
+      "vehicle_volume_by_each_direction_of_traffic": "East Bound: 400 / West Bound: 300",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.849302",
+      "longitude": "-87.622658",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.622658,
+          41.849302
+        ]
+      }
+    },
+    {
+      "id": "1294",
+      "traffic_volume_current_location_address": "2924 East",
+      "road_name_under_investigation": "130th St",
+      "date_exchange_time_stamp": "2006-08-29T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "4200",
+      "vehicle_volume_by_each_direction_of_traffic": "East Bound: 2300 / West Bound: 1900",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.659177",
+      "longitude": "-87.552112",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.552112,
+          41.659177
+        ]
+      }
+    },
+    {
+      "id": "507",
+      "traffic_volume_current_location_address": "1931 West",
+      "road_name_under_investigation": "Lake St",
+      "date_exchange_time_stamp": "2006-10-19T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "6900",
+      "vehicle_volume_by_each_direction_of_traffic": "East Bound: 3400 / West Bound: 3500",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.885023",
+      "longitude": "-87.675556",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.675556,
+          41.885023
+        ]
+      }
+    },
+    {
+      "id": "691",
+      "traffic_volume_current_location_address": "6067 North",
+      "road_name_under_investigation": "Kimball Ave",
+      "date_exchange_time_stamp": "2006-08-15T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "15600",
+      "vehicle_volume_by_each_direction_of_traffic": "North Bound: 7500 / South Bound: 8100",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.992042",
+      "longitude": "-87.714036",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.714036,
+          41.992042
+        ]
+      }
+    },
+    {
+      "id": "960",
+      "traffic_volume_current_location_address": "5116 North",
+      "road_name_under_investigation": "Ashland Ave",
+      "date_exchange_time_stamp": "2006-08-22T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "26700",
+      "vehicle_volume_by_each_direction_of_traffic": "North Bound: 13100 / South Bound: 13600",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.974889",
+      "longitude": "-87.669587",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.669587,
+          41.974889
+        ]
+      }
+    },
+    {
+      "id": "85",
+      "traffic_volume_current_location_address": "6416 South",
+      "road_name_under_investigation": "State St",
+      "date_exchange_time_stamp": "2006-05-02T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "19300",
+      "vehicle_volume_by_each_direction_of_traffic": "North Bound: 8800 / South Bound: 10500",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.777072",
+      "longitude": "-87.62526",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.62526,
+          41.777072
+        ]
+      }
+    },
+    {
+      "id": "1116",
+      "traffic_volume_current_location_address": "435 North",
+      "road_name_under_investigation": "La Salle St",
+      "date_exchange_time_stamp": "2006-09-21T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "32300",
+      "vehicle_volume_by_each_direction_of_traffic": "North Bound: 17700 / South Bound: 14600",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.890186",
+      "longitude": "-87.632548",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.632548,
+          41.890186
+        ]
+      }
+    },
+    {
+      "id": "397",
+      "traffic_volume_current_location_address": "6559 South",
+      "street": "Damen Ave",
+      "date_of_count": "2006-10-11T07:00:00.000Z",
+      "total_passing_vehicle_volume": "21500",
+      "vehicle_volume_by_each_direction_of_traffic": "North Bound: 11600 / South Bound: 9900",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.773922",
+      "longitude": "-87.673756",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.673756,
+          41.773922
+        ]
+      }
+    },
+    {
+      "id": "944",
+      "traffic_volume_current_location_address": "4245 West",
+      "road_name_under_investigation": "Lawrence Ave",
+      "date_exchange_time_stamp": "2006-08-10T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "22600",
+      "vehicle_volume_by_each_direction_of_traffic": "East Bound: 11400 / West Bound: 11200",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.968165",
+      "longitude": "-87.734816",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.734816,
+          41.968165
+        ]
+      }
+    },
+    {
+      "id": "83",
+      "traffic_volume_current_location_address": "4605 South",
+      "road_name_under_investigation": "State St",
+      "date_exchange_time_stamp": "2006-05-02T07:00:00.000Z",
+      "rate_of_passing_vehicle_flow": "21500",
+      "vehicle_volume_by_each_direction_of_traffic": "North Bound: 11200 / South Bound: 10300",
+      "message": "Successfully! Record has been added.",
+      "latitude": "41.810903",
+      "longitude": "-87.626128",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -87.626128,
+          41.810903
+        ]
+      }
+    }
+
+  ]
+}

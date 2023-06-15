@@ -1,0 +1,18 @@
+{
+  "id": "1335",
+  "traffic_volume_current_location_address": "355 West",
+  "road_name_under_investigation": "Lake St",
+  "date_exchange_time_stamp": "2006-10-02T07:00:00.000Z",
+  "rate_of_passing_vehicle_flow": "15000",
+  "vehicle_volume_by_each_direction_of_traffic": "East Bound: 10700 / West Bound: 4300",
+  "Message":"Successfully! New record has been added.",
+  "latitude": "41.885725",
+  "longitude": "-87.636864",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -87.636864,
+      41.885725
+    ]
+  }
+}
